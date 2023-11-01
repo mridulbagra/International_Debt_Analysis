@@ -20,13 +20,14 @@ Data is gathered from World Bank website and considered as primary data.
 4) Total bilateral lending show a positive growth rate since last 20 years
 5) Total bilateral lending to neighbouring countries is approx. 1.2% of overall GDP of India 
 6) In the event of default by any neighboring country in future, its impact on India’s financial sector will be minimal (Considering only the above data)
-![1](https://github.com/mridulbagra/International_Debt_Analysis/assets/89296921/6f706dad-eea9-400c-b763-ec4eb5df3f3e)
-![3](https://github.com/mridulbagra/International_Debt_Analysis/assets/89296921/3ab295db-113f-4f5b-8293-dec577106ee5)
-![2](https://github.com/mridulbagra/International_Debt_Analysis/assets/89296921/03d1f135-d67d-4d14-a184-91026b7ca49d)
-![3](https://github.com/mridulbagra/International_Debt_Analysis/assets/89296921/5530d984-934a-4c26-bc6e-155dcc095031)
-![5](https://github.com/mridulbagra/International_Debt_Analysis/assets/89296921/3fad4353-d6c3-457c-86d9-8cdca418d716)
-![6](https://github.com/mridulbagra/International_Debt_Analysis/assets/89296921/79659ae1-5787-4394-a87f-8de9e0156277)
-![7](https://github.com/mridulbagra/International_Debt_Analysis/assets/89296921/1b70a8e5-1be1-4c39-bed8-81c2f98cd468)
-![8](https://github.com/mridulbagra/International_Debt_Analysis/assets/89296921/3e0c8b99-56fb-49ef-9134-3c5abca4c11f)
+
+![1](https://github.com/mridulbagra/International_Debt_Analysis/assets/89296921/b5c466c8-1c89-4225-8dac-98cbf3c26b83)
+![2](https://github.com/mridulbagra/International_Debt_Analysis/assets/89296921/3386363d-c6e3-4499-9ccd-45c9ccd71b48)
+![3](https://github.com/mridulbagra/International_Debt_Analysis/assets/89296921/254a5a94-c718-499d-9dde-dbb75f92db21)
+![4](https://github.com/mridulbagra/International_Debt_Analysis/assets/89296921/ea53b66b-6fab-47f5-9ffb-bd63a0a9dc53)
+![5](https://github.com/mridulbagra/International_Debt_Analysis/assets/89296921/31e3595e-f9b8-4c4a-8120-ca5f8de85fa3)
+![6](https://github.com/mridulbagra/International_Debt_Analysis/assets/89296921/83c109fc-7436-4e36-987d-4df205a7ba6e)
+![7](https://github.com/mridulbagra/International_Debt_Analysis/assets/89296921/a4ab58d6-6627-4bf2-aafd-d70347803a55)
+![8](https://github.com/mridulbagra/International_Debt_Analysis/assets/89296921/bc171449-41f0-43e6-867c-8965e2b83613)
 
 
